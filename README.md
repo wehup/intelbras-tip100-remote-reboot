@@ -17,7 +17,7 @@ A Intelbrás possui uma atualização de *firmware* do aparelho que, até o mome
 
 Por mera observação, verificamos que após o aparelho ser reiniciado, o problema é mitigado por alguns dias. Para reduzir os impactos com o cliente, criamos um *script* para reiniciá-los remotamente, até que a Intelbrás venha a resolver o problema.
 
-## ToDo
+## Pendências
 
 - [] Pegar os ramais SIP cadastrados no Asterisk, verificando pelo *useragent* quais são TIP 100 e reiniciar;
 - [] Ler, de um banco de dados, os usuários e senhas de acesso à interface de administração.
