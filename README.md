@@ -19,5 +19,5 @@ Por mera observação, verificamos que após o aparelho ser reiniciado, o proble
 
 ## ToDo
 
-* Pegar os ramais SIP cadastrados no Asterisk, verificando pelo *useragent* quais são TIP 100 e reiniciar;
-* Ler, de um banco de dados, os usuários e senhas de acesso à interface de administração.
+- [] Pegar os ramais SIP cadastrados no Asterisk, verificando pelo *useragent* quais são TIP 100 e reiniciar;
+- [] Ler, de um banco de dados, os usuários e senhas de acesso à interface de administração.
