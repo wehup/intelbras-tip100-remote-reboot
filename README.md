@@ -1,4 +1,5 @@
 # Intelbrás TIP 100
+
 ## Reinicialização Remota
 
 Script para reinicialização remota dos aparelhos TIP 100 da Intelbrás, pois presenciei problemas na utilização do mesmo em ambientes com Asterisk. 
