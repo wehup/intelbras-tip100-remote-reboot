@@ -13,7 +13,7 @@ O problema também ocorreu em outros ambientes, conforme pode-se observar nos *l
 
 ## Solução (temporária)
 
-A Intelbrás possui uma atualização de *firmware* do aparelho que, até o momento (abril de 2018), é *beta* e deveria resolver a situação, porém é compatível somente com os aparelhos TIP 100 (*excluindo-se os modelos PLIGG e LITE*). Tive relatos do cliente, que tem o cenário problemático, informando que melhorou bastante a situação, porém anda não resolvido completamente (*acreditamos que devido ao fato desse novo firwamre não ser compatível com o PLIGG e o LITE*).
+A Intelbrás possui uma atualização de *firmware* do aparelho que, até o momento (abril de 2018), é *beta* e deveria resolver a situação, porém é compatível somente com os aparelhos TIP 100 (*excluindo-se os modelos PLIGG e LITE*). Tive relatos do cliente, que tem o cenário problemático, informando que melhorou bastante a situação, porém anda não resolvido completamente (*acreditamos que devido ao fato desse novo firmware não ser compatível com o PLIGG e o LITE*).
 
 Por mera observação, verificamos que após o aparelho ser reiniciado, o problema é mitigado por alguns dias. Para reduzir os impactos com o cliente, criamos um *script* para reiniciá-los remotamente, até que a Intelbrás venha a resolver o problema.
 
